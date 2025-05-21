@@ -12,9 +12,9 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import FSInputFile
 
 # === НАСТРОЙКИ ===
-TELEGRAM_TOKEN = '7726016785:AAF8qdSCYX-CvVbr1oxqM2bxVuJp9bWYvzg'
-OPENROUTER_API_KEY = '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'
-OPENROUTER_MODEL = 'deepseek/deepseek-chat:free'
+TELEGRAM_TOKEN = '
+OPENROUTER_API_KEY = '
+OPENROUTER_MODEL = '
 
 bot = Bot(
     token=TELEGRAM_TOKEN,
